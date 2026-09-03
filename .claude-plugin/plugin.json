@@ -1,0 +1,11 @@
+{
+  "name": "lite-mode",
+  "displayName": "경량 모드 (한도 절약)",
+  "version": "0.2.2",
+  "description": "Cowork 툴 결과를 서버가 예산 안으로 잘라 컨텍스트 팽창을 막는다: fetch_lite / read_lite / run_quiet + 세션 분할 규칙",
+  "author": { "name": "kindsusu" },
+  "homepage": "https://github.com/kindsusu/cowork-litemode",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}

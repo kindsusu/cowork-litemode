@@ -1,0 +1,9 @@
+# 테스트 산출물·복사된 회사 문서·호출 기록은 절대 커밋하지 않는다
+outputs/
+test_out.txt
+__pycache__/
+*.pyc
+calls.jsonl
+*.zip
+# 측정 결과는 results/ 에 숫자만, 개인 식별 정보(PC명·이메일·이름) 제거 후 넣는다
+results/raw/
