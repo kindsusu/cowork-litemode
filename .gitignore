@@ -5,5 +5,7 @@ __pycache__/
 *.pyc
 calls.jsonl
 *.zip
+# 대문 이미지는 make_hero.py 가 만든다. hero.html 은 렌더링용 중간 산출물
+assets/hero.html
 # 측정 결과는 results/ 에 숫자만, 개인 식별 정보(PC명·이메일·이름) 제거 후 넣는다
 results/raw/

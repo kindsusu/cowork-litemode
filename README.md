@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.png" alt="cowork-litemode — 수백 가닥의 원문이 조리개를 지나 몇 가닥의 선명한 빛으로. Less context in. Same answers out." width="100%"></p>
+
 # cowork-litemode
 
 **Claude Cowork 한도 절약 플러그인.** 답변을 줄이지 않는다. 툴 결과가 대화에 밀어넣는 원문을 **서버가 예산 안으로 자르고**, 대화가 커지면 **기계 검증된 체크포인트**로 이어간다. Team / Enterprise 조직에 ZIP 하나로 배포된다.

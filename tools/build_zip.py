@@ -6,7 +6,7 @@
 import json, os, sys, zipfile
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SKIP_DIRS = {"outputs", "__pycache__", ".git", "results", "docs", "tools"}
+SKIP_DIRS = {"outputs", "__pycache__", ".git", "results", "docs", "tools", "assets"}
 SKIP_FILES = {"test_out.txt", "README.md", "CHANGELOG.md", "LICENSE", ".gitignore", ".gitattributes"}
 ver = json.load(open(os.path.join(ROOT, ".claude-plugin", "plugin.json"), encoding="utf-8"))["version"]
 
